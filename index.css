@@ -1,0 +1,30 @@
+body{
+     background-image: url(./walw.gif);
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+
+}
+.a1{
+ font-size: 45px;
+ position: absolute;
+ top: 410px;
+ left: 850px;
+ color: aliceblue;
+ text-decoration: none;
+ background-color: rgb(218, 25, 25);
+ border-radius: 10px;
+ 
+
+}
+
+.input1{
+position: absolute;
+top: 412px;
+left: 515px;
+padding: 15px;
+width: 300px;
+border-radius: 10px;
+
+
+}

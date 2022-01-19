@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: burlywood;
+}
+img{
+    width: 700px;
+    position: absolute;
+    left: 450px;
+    top: 50px;
+}
+.par1{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+    color: black;
+
+}
+.head1{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    background-color: wheat;
+    color: turquoise;
+}
+.head2{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+    background-color: wheat;
+    color: turquoise;
+}
+.head3{
+    position: absolute;
+    top: 600px;
+    left: 1000px;
+    background-color: wheat;
+    color: turquoise;
+}
+footer{
+    position: absolute;
+    top: 800px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(10, 9, 9);
+    color: white;
+}
+.imag8{
+    position: absolute;
+    top: 20px;
+}

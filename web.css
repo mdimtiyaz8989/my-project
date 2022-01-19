@@ -1,0 +1,146 @@
+
+body{
+
+    background-color: black;
+}
+
+img{
+    height: 500px;
+    width: 600px;
+}
+footer{
+    position: absolute;
+    top: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(10, 9, 9);
+    color: white;
+}
+
+.card1{
+width: 350px;
+height: 350px;
+background-color: rgb(175, 172, 167);
+
+}
+.cardimg1{
+    width: 350px;
+    height: 300px;
+
+}
+.hh1{
+ font-family: sans-serif;
+ font-size: 35px;
+ left: 30px;
+position: absolute;
+color: burlywood;
+}
+
+.card2{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(175, 172, 167);
+    position: absolute;
+    left: 380px;
+    top: 610px;
+    }
+    .cardimg2{
+        width: 350px;
+        height: 300px;
+    
+    }
+    .hh2{
+     font-family: sans-serif;
+     font-size: 35px;
+     left: 30px;
+    position: absolute;
+    color: burlywood;
+    }
+
+
+    .card3{
+        width: 350px;
+        height: 350px;
+        background-color: rgb(175, 172, 167);
+        position: absolute;
+        left: 760px;
+        top: 610px;
+        }
+        .cardimg3{
+            width: 350px;
+            height: 300px;
+        
+        }
+        .hh3{
+         font-family: sans-serif;
+         font-size: 35px;
+         left: 30px;
+        position: absolute;
+        color: burlywood;
+        }
+    
+        .card4{
+            width: 350px;
+            height: 350px;
+            background-color: rgb(175, 172, 167);
+            position: absolute;
+            left: 1140px;
+            top: 610px;
+            }
+            .cardimg4{
+                width: 350px;
+                height: 300px;
+            
+            }
+            .hh4{
+             font-family: sans-serif;
+             font-size: 35px;
+             left: 30px;
+            position: absolute;
+            color: burlywood;
+            }
+            .book1{
+                position: absolute;
+                left: 600px;
+                background-color: cornflowerblue;
+                border-radius: 20px;
+                color: burlywood;
+                
+            }
+            .tren1{
+                background-color: tan;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                height: 250px;
+                text-decoration: none;
+            }
+            .a5 {
+                list-style: none;
+                padding: 70px;
+                float: left;
+            }
+            .a5 a{
+                text-decoration: none;
+            }
+            .tren8{
+                position: absolute;
+                left: 500px;
+                font-family: cursive;
+                color: mediumpurple;
+                /* height: 200px; */
+                
+            }
+            .advr{
+                height: 250px;
+                width: 900px;
+                position: absolute;
+                left: 280px;
+            }
+            .up15{
+                color: burlywood;
+            }
+
+                

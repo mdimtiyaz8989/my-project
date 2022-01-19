@@ -1,0 +1,65 @@
+
+body{
+    background-color:#f6e58d;
+    
+}
+.stream{
+    width: 700px;
+    height: 700px;
+    background-color: #95afc0;
+    position: absolute;
+    left: 400px;
+    border-radius: 30px;
+    
+}
+.s1{
+    position: absolute;
+    left: 250px;
+}
+.surya{
+    height: 200px;
+    width: 200px;
+    background-color: silver;
+    position: absolute;
+    left: 260px;
+    top: 90px;
+}
+.small1{
+    height: 200px;
+    width: 200px;
+}
+.eternal2{
+    height: 200px;
+    width: 200px;
+    background-color: silver;
+    position: absolute;
+    left: 260px;
+    top: 400px;
+}
+.but1{position: absolute;
+    left: 280px;
+    top: 320px;
+    width: 150px;
+    color: tomato;
+    background-color:gray;
+
+}
+.but2{position: absolute;
+    left: 280px;
+    top: 650px;
+    width: 150px;
+    color: tomato;
+    background-color: gray;
+    height: 20px;
+
+}
+footer{
+    position: absolute;
+    top: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-top: 800px;
+    background-color: rgb(10, 9, 9);
+    color: white;
+}
